@@ -1,2 +1,2 @@
-final shared-lib = library('shared-lib@master')
+final sharedlib = library('sharedlib@master')
 angularSitePipeline([:])
